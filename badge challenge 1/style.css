@@ -1,0 +1,47 @@
+body{
+    background-image:url("bg_img.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pic{
+    display:block;
+    text-align:center;
+    margin:auto;
+    width:60%;
+    margin-top:100px;
+    
+}
+.my{
+    
+   vertical-align: center;
+    width:260px;
+    height:255px;
+    margin:auto;
+    margin-top:-430px;
+    border:0px solid black;
+    border-radius:100%;
+    
+}
+h1{
+    font-size:30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    margin:auto;
+    margin-top:-170px;
+    color:rgb(212, 205, 205);
+}
+h2{
+    font size:25px;
+    margin:auto;
+    margin-top:-5px;
+    color:white
+
+}
+.fab { 
+    
+    letter-spacing: 10px;
+    font size:25px;
+    margin:auto;
+    margin-top:-5px;
+    color:white
+
+}
